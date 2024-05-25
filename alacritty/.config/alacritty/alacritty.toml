@@ -36,6 +36,7 @@ y = 0
 [window]
 startup_mode = "Maximized"
 option_as_alt = "Both"
+opacity = 0.65
 
 [env]
 TERM = "xterm-256color"
