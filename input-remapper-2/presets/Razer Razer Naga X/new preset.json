@@ -1,0 +1,15 @@
+[
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 275,
+                "origin_hash": "10fbe0af0c8948028e8fd6abe8609f48"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "KEY_F13",
+        "name": "Empty Mapping",
+        "mapping_type": "key_macro"
+    }
+]
